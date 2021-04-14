@@ -12,5 +12,5 @@
 - [pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) to keep Terraform projects clean and nice.
 
 ### Connect with me
-[<img align="left" alt="antonbabenko | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br />
+[<img align="left" | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 [linkedin]: https://www.linkedin.com/in/hyun-woo-kim-860a2b19b/
