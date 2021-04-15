@@ -27,3 +27,6 @@
     <img src="https://www.hypebot.com/wp-content/uploads/2019/11/instagram.jpg" width = 35px/>
   </a>
 </p>
+
+## 📈 Some My Working Repositories
+![maxwell github stats](https://github-readme-stats.vercel.app/api?username=maxwell2861&show_icons=true&count_private=true&include_all_commits=true)
