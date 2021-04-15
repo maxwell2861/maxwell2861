@@ -1,4 +1,5 @@
-### Hi there, I'm Hyunwoo Kim 👋
+## Hi there, I'm Hyunwoo Kim 👋
+
 
 ## My Code Repository
 - Terraform for AWS (Used Module)
@@ -17,12 +18,12 @@
 
 ### Connect with me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/hyun-woo-kim-860a2b19b/">
-    <img src="https://inter-dev.co.il/wp-content/uploads/2018/11/linkedin.png" width = 50px/>
+    <img src="https://inter-dev.co.il/wp-content/uploads/2018/11/linkedin.png" width = 35px/>
   </a>
 
   <a href="https://www.instagram.com/maxwell.hw/">
-    <img src="https://www.hypebot.com/wp-content/uploads/2019/11/instagram.jpg" width = 50px/>
+    <img src="https://www.hypebot.com/wp-content/uploads/2019/11/instagram.jpg" width = 35px/>
   </a>
 </p>
