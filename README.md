@@ -1,9 +1,13 @@
 ### Hi there, I'm Hyunwoo Kim 👋
 
-## 
-- Figure out best&worst practices (by asking "Why?"), and publishing them as [Terraform best practices](https://www.terraform-best-practices.com) and [Terragrunt Reference Architecture](https://github.com/antonbabenko/terragrunt-reference-architecture)
-- Open-source, Terraform and AWS
-- Live streaming is fun, too.
+## My Code Repository
+- Terraform for AWS (Used Module)
+  - IAM
+  - VPC Resource
+  - EKS
+  - ElastiCache
+  - RDS
+- Configuration Mangers [Ansible playbook , Chef]
 
 
 ## Some of my open-source projects
@@ -13,4 +17,4 @@
 
 ### Connect with me
 [<img align="left" | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[linkedin]: https://www.linkedin.com/in/hyun-woo-kim-860a2b19b/
+
