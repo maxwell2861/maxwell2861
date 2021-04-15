@@ -11,10 +11,12 @@
 - Configuration Mangers [Ansible playbook , Chef]
 
 
-## Some of my open-source projects
+## References 
 
-- [Terraform AWS modules](https://github.com/terraform-aws-modules) which were provisioned more than 15 million times.
-- [pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) to keep Terraform projects clean and nice.
+- [Terraform AWS modules](https://github.com/terraform-aws-modules) Terraform Code 는 대부분 해당 Module repo를 참고하였으며 하기 3개 provider를 활용.
+  - [aws](https://registry.terraform.io/providers/hashicorp/aws/latest/docs) AWS
+  - [rancher](https://registry.terraform.io/providers/rancher/rancher2/latest/docs) Rancher2
+  - [vault](https://registry.terraform.io/providers/hashicorp/vault/latest/docs) Hashicorp Vault
 
 ### Connect with me
 
