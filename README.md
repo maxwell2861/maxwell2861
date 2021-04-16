@@ -6,6 +6,7 @@ Devops Enginner 김현우입니다
 - Terraform for AWS (Used Module)
   - IAM
   - VPC Resource
+  - EC2 (Only Bastion Host)
   - EKS
   - ElastiCache
   - RDS
