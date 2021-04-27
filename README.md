@@ -10,6 +10,7 @@ Devops Enginner 김현우입니다
   - EKS
   - ElastiCache
   - RDS
+- Packer for AWS / Azure 
 - Configuration Mangers [Ansible playbook , Chef]
 
 
